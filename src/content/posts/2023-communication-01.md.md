@@ -3,7 +3,7 @@ title: 2023通信文档-01
 published: 2026-07-19
 tags: [通信文档, 物联网]
 category: 文档
-draft: true
+draft: false
 ---
 2023年物联网技能赛的通信文档
 # 前端接收数据
